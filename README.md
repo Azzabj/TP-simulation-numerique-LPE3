@@ -5,6 +5,8 @@ Ce dépôt contient les supports pédagogiques élaborés dans le cadre des trav
 Les notebooks ont été conçus pour initier les étudiants à la programmation scientifique avec Python et aux méthodes numériques fondamentales.
 
 ## 📘 Contenu des TP
+- **Support de rappel - Fondamentaux de Python** (format PDF)  
+Récapitulatif des bases essentielles de Python : structures de données, boucles et conditions, fonctions, bibliothèques utiles.
 
 - **TP1 – Prise en main de Python**  
   Initiation à l’environnement Jupyter, types de données, opérations de base, affichage, et premiers scripts.
