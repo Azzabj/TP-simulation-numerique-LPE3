@@ -3,7 +3,6 @@ Notebooks Python pour les travaux pratiques de simulation numérique
 
 Ce dépôt contient les supports pédagogiques élaborés dans le cadre des travaux pratiques de simulation numérique en physique.  
 Les notebooks ont été conçus pour initier les étudiants à la programmation scientifique avec Python et aux méthodes numériques fondamentales.
----
 
 ## 📘 Contenu des TP
 
