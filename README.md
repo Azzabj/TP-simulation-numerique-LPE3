@@ -16,7 +16,7 @@ Les notebooks ont été conçus pour initier les étudiants à la programmation 
   Méthodes numériques pour l’intégration (rectangle, trapèze) et la dérivation de fonctions discrètes.
 
 - **TP4 – Résolution des Équations Différentielles Ordinaires (EDO) et Partielles (EDP)**  
-  Résolution d’EDO par la méthode d’Euler et Runge-Kutta. Introduction aux EDP simples (équation de diffusion/discrétisation).
+  Résolution d’EDO par la méthode d’Euler et Runge-Kutta. Introduction aux EDP simples (équation de chaleur/discrétisation).
 
 ---
 ## ⚙️ Exécution des notebooks
