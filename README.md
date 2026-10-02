@@ -8,8 +8,7 @@ Les notebooks ont été conçus pour initier les étudiants à la programmation 
 - **Support de rappel - Fondamentaux de Python** (format PDF)  
 Récapitulatif des bases essentielles de Python : structures de données, boucles et conditions, fonctions, bibliothèques utiles.
 
-## Contenu du TP
-Dans ce dépôt, deux versions des TPs sont disponibles :
+- Dans ce dépôt, deux versions des TPs sont disponibles :
 
 ### 📁 Année universitaire 2024-2025
 
