@@ -8,18 +8,34 @@ Les notebooks ont été conçus pour initier les étudiants à la programmation 
 - **Support de rappel - Fondamentaux de Python** (format PDF)  
 Récapitulatif des bases essentielles de Python : structures de données, boucles et conditions, fonctions, bibliothèques utiles.
 
-- **TP1 – Prise en main de Python**  
-  Initiation à l’environnement Jupyter, types de données, opérations de base, affichage, et premiers scripts.
+## Contenu du TP
+Dans ce dépôt, deux versions des TPs sont disponibles :
 
-- **TP2 – Fonctions, Boucles, Conditions et Bibliothèques en Python**  
-  Syntaxe des fonctions, structures de contrôle, bibliothèques scientifiques (`math`, `numpy`, `matplotlib`).
+### 📁 Année universitaire 2024-2025
 
-- **TP3 – Intégration et Dérivation Numérique en Python**  
-  Méthodes numériques pour l’intégration (rectangle, trapèze) et la dérivation de fonctions discrètes.
+Le dossier `2024-2025` contient les anciens notebooks de TP utilisés durant l'année universitaire 2024-2025.
 
-- **TP4 – Résolution des Équations Différentielles Ordinaires (EDO) et Partielles (EDP)**  
-  Résolution d’EDO par la méthode d’Euler et Runge-Kutta. Introduction aux EDP simples (équation de chaleur/discrétisation).
+1. **TP1 – Prise en main de Python**  
+   Initiation à l'environnement Jupyter, types de données, opérations de base, affichage et premiers scripts.
 
+2. **TP2 – Fonctions, Boucles, Conditions et Bibliothèques en Python**  
+   Syntaxe des fonctions, structures de contrôle et utilisation de bibliothèques scientifiques (`math`, `numpy`, `matplotlib`).
+
+3. **TP3 – Intégration et Dérivation Numérique en Python**  
+   Méthodes numériques pour l'intégration (rectangle, trapèze) et la dérivation de fonctions discrètes.
+
+4. **TP4 – Résolution des Équations Différentielles Ordinaires (EDO) et Partielles (EDP)**  
+   Résolution d'EDO par les méthodes d'Euler et de Runge-Kutta. Introduction aux EDP simples, notamment l'équation de la chaleur et sa discrétisation.
+
+### 📁 Année universitaire 2026-2027
+
+Le dossier `2026-2027` contient la nouvelle version des TPs, actuellement en cours de préparation.
+
+- **TP1 — Initiation à Python pour la simulation numérique**  
+  Rappels essentiels de Python, NumPy et Matplotlib nécessaires à la mise en œuvre des méthodes de simulation numérique.
+
+
+Les notebooks des **TP2, TP3 et TP4 de l'année 2026-2027 sont en cours de préparation**.
 ---
 ## ⚙️ Exécution des notebooks
 
