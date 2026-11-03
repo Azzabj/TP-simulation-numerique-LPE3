@@ -36,7 +36,7 @@ Le dossier `2026-2027` contient la nouvelle version des TPs, actuellement en cou
 2. **TP2 — Méthodes de recherche des racines d’une fonction**
    Méthodes numériques de recherche des racines d'une fonction (Méthode de Newton et Dichotomie).
 
-3. **TP3 — Dérivation et Intégration Numérique en Python**
+4. **TP3 — Dérivation et Intégration Numérique en Python**
    Méthodes numériques pour la dérivation (Méthodes de différences finies) et l'intégration (rectangle, trapèze) de fonctions discrètes.
 
 
