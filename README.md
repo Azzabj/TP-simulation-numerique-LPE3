@@ -30,11 +30,16 @@ Le dossier `2024-2025` contient les anciens notebooks de TP utilisés durant l'a
 
 Le dossier `2026-2027` contient la nouvelle version des TPs, actuellement en cours de préparation.
 
-- **TP1 — Initiation à Python pour la simulation numérique**  
+1. **TP1 — Initiation à Python pour la simulation numérique**  
   Rappels essentiels de Python, NumPy et Matplotlib nécessaires à la mise en œuvre des méthodes de simulation numérique.
 
+2. **TP2 — Méthodes de recherche des racines d’une fonction**
+   Méthodes numériques de recherche des racines d'une fonction (Méthode de Newton et Dichotomie).
 
-Les notebooks des **TP2, TP3 et TP4 de l'année 2026-2027 sont en cours de préparation**.
+3. **TP3 — Dérivation et Intégration Numérique en Python**
+   Méthodes numériques pour la dérivation (Méthodes de différences finies) et l'intégration (rectangle, trapèze) de fonctions discrètes.
+
+
 ---
 ## ⚙️ Exécution des notebooks
 
