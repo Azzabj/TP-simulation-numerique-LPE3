@@ -37,11 +37,12 @@ Le dossier `2026-2027` contient la nouvelle version des TPs, actuellement en cou
 
    Méthodes numériques de recherche des racines d'une fonction (Méthode de Newton et Dichotomie).
 
-4. **TP3 — Dérivation et Intégration Numérique en Python**
+3. **TP3 — Dérivation et Intégration Numérique en Python**
 
    Méthodes numériques pour la dérivation (Méthodes de différences finies) et l'intégration (rectangle, trapèze) de fonctions discrètes.
 
-
+4. **TP4 – Résolution des Équations Différentielles Ordinaires (EDO) et Partielles (EDP)**  
+   Résolution d'EDO par les méthodes d'Euler et de Runge-Kutta. Introduction aux EDP simples, notamment l'équation de la chaleur et sa discrétisation.
 ---
 ## ⚙️ Exécution des notebooks
 
